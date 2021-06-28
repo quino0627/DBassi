@@ -41,7 +41,7 @@
     "mysql2": "^1.6.5",
     "nodemon": "^1.19.0",
     "path": "^0.12.7",
-    "prismjs": "^1.16.0",
+    "prismjs": "^1.24.0",
     "query-string": "^6.5.0",
     "redux": "^4.0.1",
     "redux-actions": "^2.6.5",
